@@ -1,0 +1,62 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Week 1: Covid-19 Vaccine and the Humanity - Supply Chain Management Project "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Introduction/Business Problem  \n",
+    "Covid-19 is haunting the globe and the pandemic disrupted the humanity at large. Millions of people lost their lives. More many are suffering and fighting for their lives. The economy is shattered and paralysed. Many of the sectors are being directly impacted and hit by the pandemic. The GDP is in negative zone in every part of the world. People lost their jobs. Businesses are shut. The supply chain and the logistics are badly hit. The economy is hit due to supply shocks and demand issues.\n",
+    "\n",
+    "Broadly the Impact of Covid-19 may be summarised as: \n",
+    " (a) Loss of human lives\n",
+    " (b) Sufferings (Physical and Psychological)\n",
+    " (c) Hurting and Pausing of economic activity \n",
+    " (d) Loss of Employment\n",
+    " (e) Closure / Suspension of Business\n",
+    " (f) Loss of hope and uncertainty\n",
+    "\n",
+    "The Problems or the Challenges are:\n",
+    " (a) Saving the Humanity from the Pandemic through Vaccine \n",
+    " (b) Developing, distribution and administration of Vaccine \n",
+    " (c) Preventing the further spread by prescribing the SOPs (Standard Operating Procedures)\n",
+    " (d) Damage Control\n",
+    " (e) Restoring the Confidence\n",
+    "\n",
+    "This Capstone Project envisages the rescuing of humanity from Covid-19. \n",
+    "Outcomes of the Capstone Project:\n",
+    "(1) Appreciation of the dynamics of Source or Supply side of Vaccine for Covid-19 \n",
+    "(2) Exploration of the Demand Side using Foursquare \n",
+    "(3) Comprehend the entire Supply Chain Management for Vaccine administration through  visualization and data science using Python\n",
+    "\n"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.8.3"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 4
+}
